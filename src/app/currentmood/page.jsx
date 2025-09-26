@@ -39,7 +39,7 @@ export default function MoodAnalyzer() {
   return (
     <div className={styles.container}>
       <h1 className={styles.title}>NeuroTunes</h1>
-      <p className={styles.subtitle}>Discover your mood through AI-powered text analysis</p>
+      <p className={styles.subtitle}>Plays music based on your current mood</p>
 
       <textarea
         value={message}
