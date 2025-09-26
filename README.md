@@ -47,18 +47,13 @@
    ```bash
    npm install
    ```
-
-3. **Set up environment variables**
-   ```bash
-   cp .env
-   ```
    
    Add your API keys to `.env.local`:
    ```env
    GEMINI_API_KEY=your_gemini_api_key_here
    ```
 
-4. **Run the development server**
+3. **Run the development server**
    ```bash
    npm run dev
    ```
@@ -95,4 +90,8 @@ src/
 - **Google Gemini AI** - Advanced language model for mood analysis
 - **Spotify Web API** - Music data and streaming integration
 - **@google/generative-ai** - Official Gemini SDK
+
+<img width="1864" height="892" alt="image" src="https://github.com/user-attachments/assets/f0339166-7391-4af5-8958-96f4b956d28f" />
+
+<img width="1894" height="882" alt="image" src="https://github.com/user-attachments/assets/5dd41e4f-77d2-4dd4-a13b-e4a1dc976de6" />
 
